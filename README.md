@@ -6,7 +6,7 @@
 - 🌱 Deepening my skills in Machine Learning and Language Models, because the future is already here.
 - 💬 Ask me about JavaScript frameworks, modern backend architecture, or scaling infrastructure.(I'm not saying I will have the answer)
 - 📫 Reach out by [email](mailto:mikael@baldassin.com) or DM me on [LinkedIn](https://linkedin.com/in/mikael-baldassin)
-- ⚡ Fun fact: I wrote my first program 20 years ago... when I was 11.
+- ⚡ Fun fact: I wrote my first program 20 years ago, when I was 11.
 
 ---
 
@@ -38,14 +38,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mikaball&theme=react&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=mikaball&theme=react&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaball&theme=react&hide_border=false&layout=compact)
 
 ---
 
